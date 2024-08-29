@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Notobd/testimonials-grid](https://your-solution-url.com)
-- Live Site URL: [https://testimonials-grid-indol.vercel.app/](https://your-live-site-url.com)
+- Live Site URL: [testimonials-grid-indol.vercel.app](https://your-live-site-url.com)
 
 ### Built with
 
